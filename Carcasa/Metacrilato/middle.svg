@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="81.077mm"
+   height="81.077mm"
+   viewBox="4017.9 3299.9 319.2 319.2"
+   version="1.1"
+   id="svg3904"
+   sodipodi:docname="middle.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3908" />
+  <sodipodi:namedview
+     id="namedview3906"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.3514692"
+     inkscape:cx="92.645935"
+     inkscape:cy="153.21638"
+     inkscape:window-width="1398"
+     inkscape:window-height="1205"
+     inkscape:window-x="51"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3904" />
+  <title
+     id="title3862" />
+  <style
+     type="text/css"
+     id="style3864">
+*[layerid=&quot;1&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;2&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;3&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;4&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;5&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;6&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;7&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;8&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;9&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;10&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;11&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;12&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;13&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;14&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;15&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;19&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;21&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;22&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;23&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;24&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;25&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;26&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;27&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;28&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;29&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;30&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;31&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;32&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;33&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;34&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;35&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;36&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;37&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;38&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;39&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;40&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;41&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;42&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;43&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;44&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;45&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;46&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;47&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;48&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;49&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;50&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;51&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;52&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;99&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;100&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;101&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;Hole&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;DRCError&quot;] {stroke:#000000;fill:#000000;}
+*[fill=&quot;none&quot;] {fill: none;}
+*[stroke=&quot;none&quot;] {stroke: none;}
+path, polyline, polygon, line {stroke-linecap:round;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] circle {fill:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] &gt; polyline:nth-of-type(2) {stroke:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;ELLIPSE&quot;]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;RECT&quot;]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;POLYGON&quot;]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid=&quot;part_via&quot;] &gt; * + circle, #gCurParts g[c_partid=&quot;part_via&quot;] &gt; * + circle {fill:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;], #gCurParts g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;] {stroke-linejoin: round;stroke-miterlimit: 100;}
+g[c_partid=&quot;part_hole&quot;] &gt; circle {fill: #FFFFFF;}path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
+  <polyline
+     points="4205.039 3309.914 4311.338 3309.914"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="10"
+     net="S$1467"
+     id="gge1466"
+     locked="0"
+     transform="translate(-9.4739956,-9.5023)"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <polyline
+     points="4043.63 3309.91 4149.92 3309.91"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="10"
+     net="S$8178"
+     id="gge1463"
+     locked="0"
+     transform="translate(-9.4739956,-9.5023)"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <polyline
+     points="4327.0859 3593.3779 4327.0859 3325.6621"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="10"
+     net="S$180"
+     id="gge1370"
+     locked="0"
+     transform="translate(-9.4739956,-9.5023)"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <polyline
+     points="4043.6221 3609.126 4311.3262 3609.126"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="10"
+     net="S$192"
+     id="gge1367"
+     locked="0"
+     transform="translate(-9.4739956,-9.5023)"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <polyline
+     points="4027.874 3325.6621 4027.874 3593.3662"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="10"
+     net="S$188"
+     id="gge1364"
+     locked="0"
+     transform="translate(-9.4739956,-9.5023)"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <polyline
+     points="4075.118 3349.284 4149.92 3349.28"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="10"
+     net="S$8178"
+     id="gge952"
+     locked="0"
+     transform="translate(-9.4739956,-9.5023)"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <polyline
+     points="4067.244 3561.882 4067.244 3357.158"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="10"
+     net="S$942"
+     id="gge941"
+     locked="0"
+     transform="translate(-9.4739956,-9.5023)"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <polyline
+     points="4287.716 3561.882 4287.716 3357.158"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="10"
+     net="S$949"
+     id="gge948"
+     locked="0"
+     transform="translate(-9.4739956,-9.5023)"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <polyline
+     points="4205.039 3349.284 4279.842 3349.284"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="10"
+     net="S$962"
+     id="gge961"
+     locked="0"
+     transform="translate(-9.4739956,-9.5023)"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <polyline
+     points="4075.118 3569.756 4279.842 3569.756"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="10"
+     net="S$938"
+     id="gge937"
+     locked="0"
+     transform="translate(-9.4739956,-9.5023)"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <polyline
+     points="4201.1 3345.35 4201.1 3313.85"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="10"
+     net="S$8178"
+     id="gge958"
+     locked="0"
+     transform="translate(-9.4739956,-9.5023)"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <polyline
+     points="4153.86 3345.35 4153.86 3313.85"
+     stroke-width="1"
+     stroke-linecap="round"
+     fill="none"
+     layerid="10"
+     net="S$8178"
+     id="gge955"
+     locked="0"
+     transform="translate(-9.4739956,-9.5023)"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4278.242,3347.6557 a 7.874,7.874 0 0 0 -7.874,-7.874"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="gge889"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4270.368,3560.2537 a 7.874,7.874 0 0 0 7.874,-7.874"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="gge892"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4057.77,3552.3797 a 7.874,7.874 0 0 0 7.874,7.874"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="gge895"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4065.644,3339.7817 a 7.874,7.874 0 0 0 -7.874,7.874"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="gge898"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4140.447,3339.7817 a 3.937,3.937 0 0 0 3.937,-3.937"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net="S$8178"
+     layerid="10"
+     id="gge901"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4191.628,3335.8447 a 3.937,3.937 0 0 0 3.937,3.937"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net="S$8178"
+     layerid="10"
+     id="gge904"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4144.384,3304.3487 a 3.937,3.937 0 0 0 -3.937,-3.937"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net="S$8178"
+     layerid="10"
+     id="gge907"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4195.565,3300.4117 a 3.937,3.937 0 0 0 -3.937,3.937"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net="S$8178"
+     layerid="10"
+     id="gge910"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4468.3988,3845.6862 a 4.331,4.331 0 1 1 8.662,0"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="circle_gge1058"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4477.0608,3845.6862 a 4.331,4.331 0 1 1 -8.662,0"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="circle_gge1061"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4728.2408,3845.6862 a 4.331,4.331 0 1 1 8.662,0"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="circle_gge1064"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4736.9028,3845.6862 a 4.331,4.331 0 1 1 -8.662,0"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="circle_gge1067"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4728.2408,3585.8442 a 4.331,4.331 0 1 1 8.662,0"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="circle_gge1070"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4736.9028,3585.8442 a 4.331,4.331 0 1 1 -8.662,0"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="circle_gge1073"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4468.3988,3585.8442 a 4.331,4.331 0 1 1 8.662,0"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="circle_gge1076"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4477.0608,3585.8442 a 4.331,4.331 0 1 1 -8.662,0"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="circle_gge1079"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="M 4317.612,3316.1597 A 15.748,15.748 0 0 0 4301.864,3300.4"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="gge1340"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4301.8523,3599.6237 a 15.748,15.748 0 0 0 15.7597,-15.748"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="gge1349"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4018.4,3583.864 a 15.748,15.748 0 0 0 15.748,15.7597"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="gge1352"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <path
+     d="m 4034.1597,3300.4117 a 15.748,15.748 0 0 0 -15.7597,15.748"
+     locked="0"
+     fill="none"
+     stroke-width="1"
+     c_helper_type="arc2"
+     net=""
+     layerid="10"
+     id="gge1361"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <circle
+     cx="4297.9268"
+     cy="3320.0969"
+     r="6.2992001"
+     stroke-width="1"
+     fill="none"
+     layerid="10"
+     id="gge1343"
+     locked="0"
+     net=""
+     transformarc="circle_gge1373,circle_gge1376"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <circle
+     cx="4297.9268"
+     cy="3579.9387"
+     r="6.2992001"
+     stroke-width="1"
+     fill="none"
+     layerid="10"
+     id="gge1346"
+     locked="0"
+     net=""
+     transformarc="circle_gge1379,circle_gge1382"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <circle
+     cx="4038.0852"
+     cy="3579.9387"
+     r="6.2992001"
+     stroke-width="1"
+     fill="none"
+     layerid="10"
+     id="gge1355"
+     locked="0"
+     net=""
+     transformarc="circle_gge1385,circle_gge1388"
+     style="stroke:#ff0000;stroke-opacity:1" />
+  <circle
+     cx="4038.0852"
+     cy="3320.0969"
+     r="6.2992001"
+     stroke-width="1"
+     fill="none"
+     layerid="10"
+     id="gge1358"
+     locked="0"
+     net=""
+     transformarc="circle_gge1391,circle_gge1394"
+     style="stroke:#ff0000;stroke-opacity:1" />
+</svg>

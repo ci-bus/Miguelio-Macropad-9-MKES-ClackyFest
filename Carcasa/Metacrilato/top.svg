@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="3.3514692"
-     inkscape:cx="90.557298"
-     inkscape:cy="153.21638"
+     inkscape:cx="48.486198"
+     inkscape:cy="153.21639"
      inkscape:window-width="1398"
      inkscape:window-height="1205"
      inkscape:window-x="51"
@@ -122,7 +122,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net=""
      id="gge40"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <polyline
      points="4043.622 3609.126 4311.3263 3609.126"
      stroke-width="1"
@@ -132,7 +133,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net="S$192"
      id="gge191"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <polyline
      points="4027.874 3325.662 4027.874 3593.3663"
      stroke-width="1"
@@ -142,7 +144,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net="S$188"
      id="gge187"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <polyline
      points="4311.338 3309.9023 4043.6337 3309.9023"
      stroke-width="1"
@@ -152,7 +155,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net="S$184"
      id="gge183"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <polyline
      points="4327.086 3593.378 4327.086 3325.662"
      stroke-width="1"
@@ -162,7 +166,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net="S$180"
      id="gge179"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <polyline
      points="4224.9183 3356.9585 4280.0352 3356.9585 4280.0352 3412.075 4224.9183 3412.075 4224.9183 3356.9585"
      stroke-width="1"
@@ -172,7 +177,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net=""
      id="gge46"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <polyline
      points="4149.9193 3356.9585 4205.0353 3356.9585 4205.0353 3412.075 4149.9193 3412.075 4149.9193 3356.9585"
      stroke-width="1"
@@ -182,7 +188,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net=""
      id="gge43"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <polyline
      points="4224.9183 3431.9584 4280.0352 3431.9584 4280.0352 3487.0748 4224.9183 3487.0748 4224.9183 3431.9584"
      stroke-width="1"
@@ -192,7 +199,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net=""
      id="gge37"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <polyline
      points="4149.9193 3431.9584 4205.0353 3431.9584 4205.0353 3487.0748 4149.9193 3487.0748 4149.9193 3431.9584"
      stroke-width="1"
@@ -202,7 +210,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net=""
      id="gge34"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <polyline
      points="4074.9194 3431.9584 4130.0355 3431.9584 4130.0355 3487.0748 4074.9194 3487.0748 4074.9194 3431.9584"
      stroke-width="1"
@@ -212,7 +221,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net=""
      id="gge31"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <polyline
      points="4224.9183 3506.9586 4280.0352 3506.9586 4280.0352 3562.0747 4224.9183 3562.0747 4224.9183 3506.9586"
      stroke-width="1"
@@ -222,7 +232,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net=""
      id="gge28"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <polyline
      points="4149.9193 3506.9586 4205.0353 3506.9586 4205.0353 3562.0747 4149.9193 3562.0747 4149.9193 3506.9586"
      stroke-width="1"
@@ -232,7 +243,8 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net=""
      id="gge25"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <polyline
      points="4074.9194 3506.9586 4130.0355 3506.9586 4130.0355 3562.0747 4074.9194 3562.0747 4074.9194 3506.9586"
      stroke-width="1"
@@ -242,9 +254,10 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      net=""
      id="gge22"
      locked="0"
-     style="stroke:#ff0000;stroke-opacity:1" />
+     style="stroke:#ff0000;stroke-opacity:1"
+     transform="translate(-9.4739956,-9.5023)" />
   <path
-     d="M 4327.086 3325.662 A 15.748 15.748 0 0 0 4311.338 3309.9023"
+     d="M 4317.612,3316.1597 A 15.748,15.748 0 0 0 4301.864,3300.4"
      locked="0"
      fill="none"
      stroke-width="1"
@@ -254,7 +267,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      id="gge158"
      style="stroke:#ff0000;stroke-opacity:1" />
   <path
-     d="M 4043.6337 3309.914 A 15.748 15.748 0 0 0 4027.874 3325.662"
+     d="m 4034.1597,3300.4117 a 15.748,15.748 0 0 0 -15.7597,15.748"
      locked="0"
      fill="none"
      stroke-width="1"
@@ -264,7 +277,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      id="gge164"
      style="stroke:#ff0000;stroke-opacity:1" />
   <path
-     d="M 4027.874 3593.3663 A 15.748 15.748 0 0 0 4043.622 3609.126"
+     d="m 4018.4,3583.864 a 15.748,15.748 0 0 0 15.748,15.7597"
      locked="0"
      fill="none"
      stroke-width="1"
@@ -274,7 +287,7 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      id="gge170"
      style="stroke:#ff0000;stroke-opacity:1" />
   <path
-     d="M 4311.3263 3609.126 A 15.748 15.748 0 0 0 4327.086 3593.378"
+     d="m 4301.8523,3599.6237 a 15.748,15.748 0 0 0 15.7597,-15.748"
      locked="0"
      fill="none"
      stroke-width="1"
@@ -284,9 +297,9 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      id="gge176"
      style="stroke:#ff0000;stroke-opacity:1" />
   <circle
-     cx="4307.401"
-     cy="3329.599"
-     r="4.3307"
+     cx="4297.9268"
+     cy="3320.0969"
+     r="4.3306999"
      stroke-width="1"
      fill="none"
      layerid="3"
@@ -294,9 +307,9 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      locked="0"
      style="stroke:#ff0000;stroke-opacity:1" />
   <circle
-     cx="4047.559"
-     cy="3329.599"
-     r="4.3307"
+     cx="4038.0852"
+     cy="3320.0969"
+     r="4.3306999"
      stroke-width="1"
      fill="none"
      layerid="3"
@@ -304,9 +317,9 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      locked="0"
      style="stroke:#ff0000;stroke-opacity:1" />
   <circle
-     cx="4047.559"
-     cy="3589.441"
-     r="4.3307"
+     cx="4038.0852"
+     cy="3579.9387"
+     r="4.3306999"
      stroke-width="1"
      fill="none"
      layerid="3"
@@ -314,9 +327,9 @@ rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges
      locked="0"
      style="stroke:#ff0000;stroke-opacity:1" />
   <circle
-     cx="4307.401"
-     cy="3589.441"
-     r="4.3307"
+     cx="4297.9268"
+     cy="3579.9387"
+     r="4.3306999"
      stroke-width="1"
      fill="none"
      layerid="3"
